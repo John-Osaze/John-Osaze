@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @John-Osaze
-- 👀 I’m interested in Frontend Web Developement
+- 👀 I’m interested in Frontend Web Development
 - 🌱 I’m currently learning JavaScript Algorithms and Data Structures
 - 💞️ I’m looking to collaborate on frontend projects within my capabilities 
 - 📫 How to reach me ...Call : 09010644666 or Email: johnfavourosaze@gmail.com
